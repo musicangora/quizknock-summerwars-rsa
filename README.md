@@ -2,6 +2,8 @@
  QuizKnockの企画動画で学ぶRSA暗号
  
  [![](https://img.youtube.com/vi/kvC55N4k9ng/0.jpg)](https://www.youtube.com/watch?v=kvC55N4k9ng)
+ 
+ 🔗https://www.youtube.com/watch?v=kvC55N4k9ng
 
 夏になると見たくなる、映画「サマーウォーズ」では、主人公の健二が世界の危機を救うために暗算で暗号を解くシーンがある。実際何をしているのかよくわからないまま楽しんでいる人も多いだろうが、彼はとんでもないことをしている。
 
@@ -66,7 +68,7 @@ $ python Q3.py
 
 
 ## 第4問、最終問題
-動画内では第4問と最終問題で、「サマーウォーズ」の主人公、健二がいかにすごいことをしているかが説明されていますので、ぜひご覧ください。
+動画内では第4問と最終問題で、「サマーウォーズ」の主人公、健二がいかにすごいこと(無理難題)をしているかが説明されている。ぜひ見てほしい。
 
 
 ## RSA_Decrypt.py
@@ -77,4 +79,9 @@ $ python RSA_Decrypt.py
 これまでのQ1~Q2までの内容を使って公開鍵から暗号文を復号化するプログラムを作成した。
 
 
+## サマーウォーズ
+健二くんのすごさがわかれば、「サマーウォーズ」ももっと楽しめるはず！！
 
+ [![](https://user-images.githubusercontent.com/40447362/127768286-e9b88d6f-e219-49da-9e9b-ffc8043a71c6.png)](https://www.amazon.co.jp/gp/video/detail/B07CLCVH9G/ref=atv_dp_share_cu_r)
+
+https://www.amazon.co.jp/gp/video/detail/B07CLCVH9G/ref=atv_dp_share_cu_r
